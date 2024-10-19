@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portofolio-website-nine.vercel.app/](https://my-portofolio-website-nine.vercel.app/)
 
-- 💬 Ask me about **Java ,HTML ,CSS ,JavaScript , Reactjs, NodeJs, ExpressJs and Mongodb**
+- 💬 Ask me about **Java ,HTML ,CSS ,JavaScript , Reactjs,Nextjs, NodeJs, ExpressJs and Mongodb**
 
 - 📫 How to reach me **gagan02agrawal@gmail.com**
 
