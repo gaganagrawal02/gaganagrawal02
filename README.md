@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaganagrawal02&label=Profile%20views&color=0e75b6&style=flat" alt="gaganagrawal02" /> </p>
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Data Structure And Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://my-portofolio-website-nine.vercel.app/](https://my-portofolio-website-nine.vercel.app/)
 
