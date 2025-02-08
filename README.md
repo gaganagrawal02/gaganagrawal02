@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Structure And Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://my-portofolio-website-nine.vercel.app/](https://my-portofolio-website-nine.vercel.app/)
+- 👨‍💻 All of my projects are available at https://my-portofolio-website-cyan.vercel.app/
 
 - 💬 Ask me about **Java ,HTML ,CSS ,JavaScript , Reactjs,Nextjs, NodeJs, ExpressJs and Mongodb**
 
