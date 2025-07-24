@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaganagrawal02&label=Profile%20views&color=0e75b6&style=flat" alt="gaganagrawal02" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Data Structure And Algorithm**
 
 - 👨‍💻 All of my projects are available at https://my-portofolio-website-cyan.vercel.app/
 
-- 💬 Ask me about **Java ,HTML ,CSS ,JavaScript , Reactjs,Nextjs, NodeJs, ExpressJs and Mongodb**
+- 💬 Ask me about **Java ,Python, Reactjs,Nextjs, NodeJs, ExpressJs, SQL, HTML ,CSS ,JavaScript, Data Structure And Algorithm  and Mongodb**
 
 - 📫 How to reach me **gagan02agrawal@gmail.com**
 
